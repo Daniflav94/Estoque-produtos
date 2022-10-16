@@ -2,9 +2,11 @@
 
 ## Objetivo
 
-Adicionar produtos com seus dados (nome, marca, preço e quantidade) em uma tabela e caso necessário é possível deletá-los. 
+Adicionar produtos com seus dados (nome, marca, preço e quantidade) em uma tabela e caso necessário é possível removê-los. 
 
 O objetivo desse projeto foi manipular objetos e arrays e exibi-los no HTML através do Javascript.
+
+Obs: A página está responsiva.
 
 ## Tecnologias
 
@@ -12,7 +14,7 @@ O objetivo desse projeto foi manipular objetos e arrays e exibi-los no HTML atra
 - Javascript.
 
 ## Link da página:
-
+https://daniflav94.github.io/Estoque-produtos/
 
 
 ## Imagem:
