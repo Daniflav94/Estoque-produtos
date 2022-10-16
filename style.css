@@ -123,11 +123,26 @@ thead th{
 }
 
 @media screen and (max-width: 600px) { 
-    #tabela{
+    
+    body{
+        justify-content: flex-start;
+    }
+    .container{
         width: 300px;
-        font-weight: bold;
-        align-items: center;  
-        margin-bottom: 40px;
+        background-color: none;
+        margin: 10px;
+    }
+
+    input{
+        width: 260px;
+    }
+
+    #tabela{
+        width: auto;
+    }
+
+    .titulo{
+        text-align: center;
     }
 }
 
