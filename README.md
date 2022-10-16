@@ -4,7 +4,7 @@
 
 Adicionar produtos com seus dados (nome, marca, preço e quantidade) em uma tabela e caso necessário é possível removê-los. 
 
-O objetivo desse projeto foi manipular objetos e arrays e exibi-los no HTML através do Javascript.
+O objetivo desse projeto foi praticar manipulação de objetos e arrays e exibi-los no HTML através do Javascript.
 
 Obs: A página está responsiva.
 
