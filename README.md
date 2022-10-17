@@ -1,4 +1,4 @@
-# Estoque-produtos 📦
+# Estoque de produtos 📦
 
 ## Objetivo
 
